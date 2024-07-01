@@ -7,6 +7,9 @@ use CodeIgniter\HTTP\ResponseInterface;
 
 class Test2Controller extends BaseController
 {
+    function __consturct(){
+        // test
+    }
     public function index()
     {
         //xyz
